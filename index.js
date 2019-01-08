@@ -1,5 +1,5 @@
 function shout(val)
 {
   
-return val.up
+return val.toUpperCase();
 }
