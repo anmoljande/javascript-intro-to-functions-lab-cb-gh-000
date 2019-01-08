@@ -8,3 +8,8 @@ function whisper(val)
 {
   return val.toLowerCase();
 }
+
+function logShout(val)
+{
+ console.log(val.toUpperCase()); 
+}
