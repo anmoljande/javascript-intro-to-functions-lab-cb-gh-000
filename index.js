@@ -24,5 +24,6 @@ function sayHiToGrandma(val)
    return "I can't hear you!";
    else if (val===uppercase)
    return "YES INDEED!";
-   else if
+   else if (val==="jj")
+   
 }
