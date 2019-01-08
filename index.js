@@ -13,3 +13,8 @@ function logShout(val)
 {
  console.log(val.toUpperCase()); 
 }
+function logWhisper(val)
+{
+   console.log(val.toLowerCase()); 
+
+}
